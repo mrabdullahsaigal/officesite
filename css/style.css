@@ -1,0 +1,86 @@
+body {
+
+background-color.: #E8E8E8;
+
+
+}
+.logo
+{
+  width: 6%;
+
+
+  padding-bottom: -3%;
+  padding-top: 2%;
+}
+
+#Products
+{
+  text-align: center;
+  padding: 7% 15%;
+  background-color: white;
+
+
+}
+address
+{
+  font-size:250%;
+  padding-top: 10%;
+
+  text-align: center;
+}
+.contactbody
+{
+   background-color: #E8E8E8;
+}
+
+.mobile-image
+{
+  width: 30%;
+  height:30%;
+  margin: 20px;
+
+}
+.navbar-brand
+{padding-top: -10%;
+  padding-bottom: 2%;
+  font-weight: bolder;
+  font-size: 150%;
+
+}
+
+.products
+{
+  padding: 10px 10px;
+  text-align: center;
+}
+
+.img{
+  width: 30%;
+}
+.img-lp
+{
+  width: 30%;
+  height: 50%;
+
+}.
+
+
+
+.panel
+{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+
+}
+.item-image{
+  width:250px;
+  height:150px
+}
+.item
+{
+  text-align: center;
+  margin:30px;
+  padding:20px
+}
